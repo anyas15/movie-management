@@ -1,0 +1,31 @@
+/* Apply styles to the header */
+header {
+    background-color: #488286;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Style the main content */
+main {
+    text-align: center;
+}
+
+/* Style the result container */
+#result {
+    background-color: #b7d5d4;
+    padding: 20px;
+    border: 1px solid #305252;
+    margin: 20px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    white-space: pre-line; /* Preserve line breaks */
+}
+
+/* Style the console output */
+#console-output {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    line-height: 1.5;
+    text-align: center;
+    color: #373e40;
+}
